@@ -9,12 +9,11 @@ Currently working as an **IT Operations & Data Analyst Intern** at the Brazilian
 - Renewable Energy & Battery Storage (BESS) Research
 - Data Analysis & Automation (Python, SQL, Power BI)
 - Computer Vision & Machine Learning (YOLOv11, OpenCV)
-- Hardware Development (PCB Design, Embedded Systems)
 
 ## Experience Highlights
 
-- **ONS** — Reduced IT ticket backlog by 83% through process optimization and automation
-- **Fotovoltaica UFSC** — Co-authored a paper on second-life batteries published in *Energy for Sustainable Development*
+- **ONS** — Automated team queue management and Azure DevOps card creation using Python/PowerShell scripts.
+- **Fotovoltaica UFSC** — Co-authored a paper on second-life batteries published in *Energy for Sustainable Development* 
 - **E3 UFSC** — Led the electrical team to win Shell Eco-marathon Brazil 2024, setting the Latin American efficiency record (381.4 km/kWh)
 
 ## Tech Stack
@@ -29,7 +28,7 @@ Currently working as an **IT Operations & Data Analyst Intern** at the Brazilian
 
 ## Publications
 
-- **Energy for Sustainable Development (2025)** — "Field-Based Assessment of Small-Scale PV-BESS Applications Using Second-Life Li-ion Batteries for Circular Economy Pathways" [Co-author]
+- **Energy for Sustainable Development (2025)** — "Field-Based Assessment of Small-Scale PV-BESS Applications Using Second-Life Li-ion Batteries for Circular Economy Pathways" [Co-author] DOI: 10.1016/j.esd.2026.101584
 - **Solar World Congress 2025** — "Performance Assessment of Off-Grid Solar Light Poles Using Second-Life Batteries" [Oral Presentation]
 
 ## Let's Connect
