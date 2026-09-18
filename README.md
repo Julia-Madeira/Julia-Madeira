@@ -1,13 +1,13 @@
-# Hi, I'm Julia Pereira Madeira!
+# Hi, I'm Julia!
 
 Electrical Engineering student at the Federal University of Santa Catarina (UFSC), Brazil.
 
 Currently working as an **IT Operations & Data Analyst Intern** at the Brazilian National System Operator (ONS), supporting the operation of Brazil's electrical grid.
 
-## What I Do
+## What are my main projects
 
 - Renewable Energy & Battery Storage (BESS) Research
-- Data Analysis & Automation (Python, SQL, Power BI)
+- Data Analysis & Automation (Python, SQL, Power BI, Machine learning, AI)
 - Computer Vision & Machine Learning (YOLOv11, OpenCV)
 
 ## Experience Highlights
