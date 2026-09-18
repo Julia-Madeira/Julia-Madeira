@@ -12,7 +12,7 @@ Currently working as an **IT Operations & Data Analyst Intern** at the Brazilian
 
 ## Experience Highlights
 
-- **ONS** — Automated team queue management and Azure DevOps card creation using Python/PowerShell scripts.
+- **ONS** — Automated team queue management and Azure DevOps work item creation using Python and PowerShell scripts. Developed AI Agents and Skills to assist with daily tasks through AI-powered automation and API integrations. Worked on the approval of release terms based on the quality and reliability of electric power grid supervisory data.
 - **Fotovoltaica UFSC** — Co-authored a paper on second-life batteries published in *Energy for Sustainable Development* 
 - **E3 UFSC** — Led the electrical team to win Shell Eco-marathon Brazil 2024, setting the Latin American efficiency record (381.4 km/kWh)
 
